@@ -1,0 +1,2 @@
+Snowdog_CustomSitemapPath
+=========================
