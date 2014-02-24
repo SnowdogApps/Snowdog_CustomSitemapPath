@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+      <Snowdog_CustomSitemapPath>
+          <active>true</active>
+          <codePool>community</codePool>
+          <depends>
+              <Mage_Adminhtml />
+          </depends>
+      </Snowdog_CustomSitemapPath>
+  </modules>
+</config>
